@@ -1,0 +1,138 @@
+.navbar{
+  background-color: rgb(25,59,118);
+  display:flex;
+  padding: 15px 0px;
+  justify-content: space-around;
+  padding: 15px 0px;
+}
+.links a{
+  color: white;
+  text-decoration: none;
+  margin:0px 15px;
+  font-size: 20px;
+
+
+}
+.links a{
+  color: whitesmoke;
+  text-decoration: none;
+  margin: 0px 15px;
+  font-size: 20px;
+}
+.links a:hover{
+  color: wheat;
+}
+.home{
+  background-color: navy;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.poster img{
+  border-radius: 10px;
+
+}
+.moives_list{
+  padding: 45px 0px;
+}
+.moives_list img{
+  margin :0px 10px;
+  border-radius: 8px;
+}
+.favs{
+  background-color:navy;
+  color: white;
+  text-align: center;
+  padding: 45px 0px;
+}
+.favs h1{
+  font-size: 50px;
+}
+.list{
+  margin: 15px;
+}
+.list:hover{
+  background-color:black;
+  
+
+}
+.footer{
+  background-color: navy;
+  text-align: center;
+  padding: 25px 0px;
+}
+.footer a{
+  text-decoration: none;
+  color:white;
+  margin: 0px 15px;
+}
+.footer p{
+  color:dimgray;
+}
+.addfavourites input{
+  display:block;
+  margin: 15px 0px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.addfavourites{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 500px;
+  margin:0px 40px 0px 40px;
+  border: 30px;
+  background-color:navy;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.content{
+  color:white;
+  background-color: rgb(156, 156, 215);
+  width: 500px;
+  height: 270px;
+  text-align: center;
+  padding:60px 15px 20px 15px;
+
+}
+.addfavourites button{
+  height:30px ;
+  width:200px;
+  color: white;
+  background-color:blue;
+  border: none;
+  margin-left: 80px;
+}
+.addfavourites number{
+  height: 30px;
+  width:200px;
+  padding: 10px;
+}
+.form{
+  width:500px;
+  height: 350px;
+  background-color:rgba(149, 132, 119, 0.253);
+  padding-left: 100px;
+}
+.form input{
+  display: block;
+  margin:20px 20px;
+  border-radius: 5px;
+  width:70%;
+  padding: 7px;
+}
+.about{
+  
+  justify-content: center;
+  display: flex;
+  background-color:black;
+  
+
+}
+.cont{
+  margin-left: 25px;
+  padding:90px;
+  color:white;
+  font-size: 25px;
+  
+  
+}

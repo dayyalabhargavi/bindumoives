@@ -1,0 +1,32 @@
+ {
+ "favourites" : [
+    {
+         "title":"festive season",
+         "genre":"pooja part",
+         "language":"hindi",
+         "rating":"3"
+    },{
+         "title":"darling",
+         "genre":"love story",
+         "language":"telugu",
+         "rating":"8"
+    },{
+         "title":"hulk",
+         "genre":"fantasic",
+         "language":"english",
+         "rating":"10"
+    },{
+         "title":"good luck jerry",
+         "genre":"comedy",
+         "language":"hindi",
+         "rating":"5"
+    },{
+         "title":"mockn night",
+         "genre":"horror",
+         "language":"english",
+         "rating":"8"
+    }
+]
+}
+
+   
